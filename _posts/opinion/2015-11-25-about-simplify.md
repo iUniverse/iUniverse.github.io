@@ -2,7 +2,7 @@
 layout: post
 title: Simplicity
 category: opinion
-description: tech，opinion。
+description: just my idea
 ---
 
 ##IA
