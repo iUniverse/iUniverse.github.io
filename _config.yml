@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: iuniverse.github.io
+title: Lives in Universe
 url: http://iuniverse.github.io
 feed: /atom.xml
 author_info: <a href="http://iuniverse.github.io/">iUniverse</a>
